@@ -1,2 +1,3 @@
-# tcp--golang
+# tcp-chat-golang
+
 tcp chat
